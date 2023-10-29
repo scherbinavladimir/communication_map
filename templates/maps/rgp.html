@@ -1,0 +1,105 @@
+{% extends 'maps/base.html' %}
+
+{% block title %}РГП {% endblock %}
+
+{% block content %}
+<nav class="navbar navbar-expand-md">
+  <div class="container-md">
+    <a class="navbar-brand" href="#"><i class="bi bi-train-front-fill me-1"></i>РГП</a>
+  <span class="navbar-text">
+    Варианты трамвайных путей Ростов-на-Дону
+  </span>
+  </div>
+</nav>
+<div class="container-fluid p-0 mapWrap">
+    <div class="h-100 w-100 overflow-hidden" id="map"></div>
+</div>
+<div class="container-md py-2">
+    <div class="d-lg-flex justify-content-between">
+        <div>
+            <button class="btn btn-light d-lg-none text-nowrap w-100" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasResponsive" aria-controls="offcanvasResponsive">Сети РЖД</button>
+
+            <div class="offcanvas-lg offcanvas-bottom" data-bs-backdrop="false" tabindex="-1" id="offcanvasResponsive" aria-labelledby="offcanvasResponsiveLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasResponsiveLabel">Варианты трамвайных линий</h5>
+                <button type="button" class="btn-close" style="filter: invert()" data-bs-dismiss="offcanvas" data-bs-target="#offcanvasResponsive" aria-label="Close"></button>
+              </div>
+              <div class="offcanvas-body">
+                  <div class="container-fluid">
+                    <h5 align="center" class="d-none d-lg-block">Варианты трамвайных линий</h5>
+                    <div class="row">
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd1 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-primary"></i>Вариант 1</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd2 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger"></i>Вариант 2</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd3 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger-emphasis"></i>Вариант 3</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd4 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-warning"></i>Вариант 4</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd5 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-info"></i>Вариант 5</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd6 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-success"></i>Этап 1.13</button></div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+        </div>
+        <div class="mx-lg-4">
+            <h5 align="center" class="d-none d-lg-block">&nbsp;</h5>
+            <div class="mb-1 mt-1 mt-lg-0"><button type="button" disabled class="load-piketag btn btn-sm btn-light text-nowrap w-100">ПИКЕТАЖ</button></div>
+            <div class="mb-1"><button type="button" class="load-board btn btn-sm btn-light text-nowrap w-100">ГРАНИЦА ППМ</button></div>
+            <div class="mb-1"><button type="button" disabled class="load-kadastr btn btn-sm btn-light text-nowrap w-100">КАДАСТР</button></div>
+        </div>
+        <div>
+             <button class="btn btn-light d-lg-none text-nowrap w-100" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasResponsive1" aria-controls="offcanvasResponsive">Сторонние сети</button>
+
+            <div class="offcanvas-lg offcanvas-bottom" data-bs-backdrop="false" tabindex="-1" id="offcanvasResponsive1" aria-labelledby="offcanvasResponsiveLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasResponsiveLabel">Существующие сети</h5>
+                <button type="button" class="btn-close" style="filter: invert()" data-bs-dismiss="offcanvas" data-bs-target="#offcanvasResponsive1" aria-label="Close"></button>
+              </div>
+              <div class="offcanvas-body">
+                  <div class="container-fluid">
+                    <h5 align="center" class="d-none d-lg-block">Существующие сети</h5>
+                    <div class="row">
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out1 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger"></i>Газопроводы</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out2 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-primary-emphasis"></i>Водопроводы</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out3 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger-emphasis"></i>Канализация</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out4 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-warning"></i>Теплосети</button></div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="d-none">
+    <button type="button" class="load-water btn btn-sm btn-light text-nowrap"><i class="bi bi-record-fill me-2 text-primary"></i>Водопровод</button>
+    <input type="button" value="Связь" class="load-connection" />
+    <input type="button" value="Канализация" class="load-sewerage" />
+    </div>
+</div>
+
+{% endblock %}
+
+{% block script %}
+<script>
+ymaps.ready(init);
+
+function init() {
+    var myMap = new ymaps.Map('map', {
+            center: [47.222596, 39.630703],
+            zoom: 14,
+            controls: ['zoomControl', 'rulerControl', 'typeSelector', 'geolocationControl' ]
+        });
+
+const var1 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd1'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/var1.kml')
+const var2 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd2'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/var2.kml')
+const var3 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd3'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/var3.kml')
+const var4 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd4'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/var4.kml')
+const var5 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd5'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/var5.kml')
+const var6 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd6'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/etap1.kml')
+const out1 = new GeoObjectDrawer(myMap, document.querySelector('.load-out1'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/gaz.kml')
+const out2 = new GeoObjectDrawer(myMap, document.querySelector('.load-out2'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/water.kml')
+const out6 = new GeoObjectDrawer(myMap, document.querySelector('.load-out3'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/sewerage.kml')
+const out4 = new GeoObjectDrawer(myMap, document.querySelector('.load-out4'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/warm.kml')
+const board = new GeoObjectDrawer(myMap, document.querySelector('.load-board'), 'https://vvschrus.pythonanywhere.com/static/data/rgp/outline.kml')
+
+}
+</script>
+{% endblock %}

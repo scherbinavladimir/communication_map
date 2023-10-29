@@ -1,0 +1,108 @@
+{% extends 'maps/base.html' %}
+
+{% block title %} ЕСК ЖД {% endblock %}
+
+{% block content %}
+<nav class="navbar navbar-expand-md">
+  <div class="container-md">
+    <a class="navbar-brand" href="#"><i class="bi bi-train-front-fill me-1"></i>ЕСК ЖД</a>
+  <span class="navbar-text">
+    Единая Система Коммуникаций ЖД
+  </span>
+  </div>
+</nav>
+<div class="container-fluid p-0 mapWrap">
+    <div class="h-100 w-100 overflow-hidden" id="map"></div>
+</div>
+<div class="container-md py-2">
+    <div class="d-lg-flex justify-content-between">
+        <div>
+            <button class="btn btn-light d-lg-none text-nowrap w-100" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasResponsive" aria-controls="offcanvasResponsive">Сети РЖД</button>
+
+            <div class="offcanvas-lg offcanvas-bottom" data-bs-backdrop="false" tabindex="-1" id="offcanvasResponsive" aria-labelledby="offcanvasResponsiveLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasResponsiveLabel">Сети РЖД</h5>
+                <button type="button" class="btn-close" style="filter: invert()" data-bs-dismiss="offcanvas" data-bs-target="#offcanvasResponsive" aria-label="Close"></button>
+              </div>
+              <div class="offcanvas-body">
+                  <div class="container-fluid">
+                    <h5 align="center" class="d-none d-lg-block">Сети РЖД</h5>
+                    <div class="row">
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd1 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-primary"></i>Водопроводы</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd2 btn btn-sm btn-light text-nowrap w-100" disabled><i class="bi bi-record-fill me-2 text-danger"></i>Электрокабели</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd3 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger-emphasis"></i>Канализация</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd4 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-warning"></i>СЦБ</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd5 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-info"></i>опоры КС</button></div>
+                        <div class="col-6 mb-1 px-1"><button type="button" class="load-rzd6 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-success"></i>Связь</button></div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+        </div>
+        <div class="mx-lg-4">
+            <h5 align="center" class="d-none d-lg-block">&nbsp;</h5>
+            <div class="mb-1 mt-1 mt-lg-0"><button type="button" class="load-piketag btn btn-sm btn-light text-nowrap w-100">ПИКЕТАЖ</button></div>
+            <div class="mb-1"><button type="button" class="load-board btn btn-sm btn-light text-nowrap w-100">ГРАНИЦА ПО</button></div>
+            <div class="mb-1"><button type="button" class="load-kadastr btn btn-sm btn-light text-nowrap w-100">КАДАСТР</button></div>
+        </div>
+        <div>
+             <button class="btn btn-light d-lg-none text-nowrap w-100" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasResponsive1" aria-controls="offcanvasResponsive">Сторонние сети</button>
+
+            <div class="offcanvas-lg offcanvas-bottom" data-bs-backdrop="false" tabindex="-1" id="offcanvasResponsive1" aria-labelledby="offcanvasResponsiveLabel">
+              <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasResponsiveLabel">Сторонние сети</h5>
+                <button type="button" class="btn-close" style="filter: invert()" data-bs-dismiss="offcanvas" data-bs-target="#offcanvasResponsive1" aria-label="Close"></button>
+              </div>
+              <div class="offcanvas-body">
+                  <div class="container-fluid">
+                    <h5 align="center" class="d-none d-lg-block">Сторонние сети</h5>
+                    <div class="row">
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out1 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-danger"></i>Газопроводы</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out2 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-primary-emphasis"></i>Водопроводы</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out3 btn btn-sm btn-light text-nowrap w-100" disabled><i class="bi bi-record-fill me-2 text-danger-emphasis"></i>Канализация</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out4 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-warning"></i>ВЛ-35 кВ</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out5 btn btn-sm btn-light text-nowrap w-100" disabled><i class="bi bi-record-fill me-2 text-info-emphasis"></i>Нефтепроводы</button></div>
+                <div class="col-6 mb-1 px-1"><button type="button" class="load-out6 btn btn-sm btn-light text-nowrap w-100"><i class="bi bi-record-fill me-2 text-success-emphasis"></i>Связь</button></div>
+                    </div>
+                  </div>
+              </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="d-none">
+    <button type="button" class="load-water btn btn-sm btn-light text-nowrap"><i class="bi bi-record-fill me-2 text-primary"></i>Водопровод</button>
+    <input type="button" value="Связь" class="load-connection" />
+    <input type="button" value="Канализация" class="load-sewerage" />
+    </div>
+</div>
+
+{% endblock %}
+
+{% block script %}
+<script>
+ymaps.ready(init);
+
+function init() {
+    var myMap = new ymaps.Map('map', {
+            center: [44.94985674,37.31829873],
+            zoom: 15,
+            controls: ['zoomControl', 'rulerControl', 'typeSelector', 'geolocationControl' ]
+        });
+
+const rzd1 = new GeoObjectDrawer(document.querySelector('.load-rzd1'), 'https://vvschrus.pythonanywhere.com/static/data/rzd1.kml')
+const rzd3 = new GeoObjectDrawer(document.querySelector('.load-rzd3'), 'https://vvschrus.pythonanywhere.com/static/data/rzd3.kml')
+const rzd4 = new GeoObjectDrawer(document.querySelector('.load-rzd4'), 'https://vvschrus.pythonanywhere.com/static/data/rzd4.kml')
+const rzd5 = new GeoObjectDrawer(document.querySelector('.load-rzd5'), 'https://vvschrus.pythonanywhere.com/static/data/rzd5.kml')
+const rzd6 = new GeoObjectDrawer(document.querySelector('.load-rzd6'), 'https://vvschrus.pythonanywhere.com/static/data/rzd6.kml')
+const out1 = new GeoObjectDrawer(document.querySelector('.load-out1'), 'https://vvschrus.pythonanywhere.com/static/data/out1.kml')
+const out2 = new GeoObjectDrawer(document.querySelector('.load-out2'), 'https://vvschrus.pythonanywhere.com/static/data/out2.kml')
+const out4 = new GeoObjectDrawer(document.querySelector('.load-out4'), 'https://vvschrus.pythonanywhere.com/static/data/out4.kml')
+const out6 = new GeoObjectDrawer(document.querySelector('.load-out6'), 'https://vvschrus.pythonanywhere.com/static/data/test_picture.kml')
+const piketag = new GeoObjectDrawer(document.querySelector('.load-piketag'), 'https://vvschrus.pythonanywhere.com/static/data/piketag.kml')
+const board = new GeoObjectDrawer(document.querySelector('.load-board'), 'https://vvschrus.pythonanywhere.com/static/data/board.kml')
+const kadastr = new GeoObjectDrawer(document.querySelector('.load-kadastr'), 'https://vvschrus.pythonanywhere.com/static/data/kadastr.kml')
+
+}
+</script>
+{% endblock %}
