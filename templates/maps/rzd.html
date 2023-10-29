@@ -90,18 +90,18 @@ function init() {
             controls: ['zoomControl', 'rulerControl', 'typeSelector', 'geolocationControl' ]
         });
 
-const rzd1 = new GeoObjectDrawer(document.querySelector('.load-rzd1'), 'https://vvschrus.pythonanywhere.com/static/data/rzd1.kml')
-const rzd3 = new GeoObjectDrawer(document.querySelector('.load-rzd3'), 'https://vvschrus.pythonanywhere.com/static/data/rzd3.kml')
-const rzd4 = new GeoObjectDrawer(document.querySelector('.load-rzd4'), 'https://vvschrus.pythonanywhere.com/static/data/rzd4.kml')
-const rzd5 = new GeoObjectDrawer(document.querySelector('.load-rzd5'), 'https://vvschrus.pythonanywhere.com/static/data/rzd5.kml')
-const rzd6 = new GeoObjectDrawer(document.querySelector('.load-rzd6'), 'https://vvschrus.pythonanywhere.com/static/data/rzd6.kml')
-const out1 = new GeoObjectDrawer(document.querySelector('.load-out1'), 'https://vvschrus.pythonanywhere.com/static/data/out1.kml')
-const out2 = new GeoObjectDrawer(document.querySelector('.load-out2'), 'https://vvschrus.pythonanywhere.com/static/data/out2.kml')
-const out4 = new GeoObjectDrawer(document.querySelector('.load-out4'), 'https://vvschrus.pythonanywhere.com/static/data/out4.kml')
-const out6 = new GeoObjectDrawer(document.querySelector('.load-out6'), 'https://vvschrus.pythonanywhere.com/static/data/test_picture.kml')
-const piketag = new GeoObjectDrawer(document.querySelector('.load-piketag'), 'https://vvschrus.pythonanywhere.com/static/data/piketag.kml')
-const board = new GeoObjectDrawer(document.querySelector('.load-board'), 'https://vvschrus.pythonanywhere.com/static/data/board.kml')
-const kadastr = new GeoObjectDrawer(document.querySelector('.load-kadastr'), 'https://vvschrus.pythonanywhere.com/static/data/kadastr.kml')
+const rzd1 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd1'), 'https://vvschrus.pythonanywhere.com/static/data/rzd1.kml')
+const rzd3 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd3'), 'https://vvschrus.pythonanywhere.com/static/data/rzd3.kml')
+const rzd4 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd4'), 'https://vvschrus.pythonanywhere.com/static/data/rzd4.kml')
+const rzd5 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd5'), 'https://vvschrus.pythonanywhere.com/static/data/rzd5.kml')
+const rzd6 = new GeoObjectDrawer(myMap, document.querySelector('.load-rzd6'), 'https://vvschrus.pythonanywhere.com/static/data/rzd6.kml')
+const out1 = new GeoObjectDrawer(myMap, document.querySelector('.load-out1'), 'https://vvschrus.pythonanywhere.com/static/data/out1.kml')
+const out2 = new GeoObjectDrawer(myMap, document.querySelector('.load-out2'), 'https://vvschrus.pythonanywhere.com/static/data/out2.kml')
+const out4 = new GeoObjectDrawer(myMap, document.querySelector('.load-out4'), 'https://vvschrus.pythonanywhere.com/static/data/out4.kml')
+const out6 = new GeoObjectDrawer(myMap, document.querySelector('.load-out6'), 'https://vvschrus.pythonanywhere.com/static/data/test_picture.kml')
+const piketag = new GeoObjectDrawer(myMap, document.querySelector('.load-piketag'), 'https://vvschrus.pythonanywhere.com/static/data/piketag.kml')
+const board = new GeoObjectDrawer(myMap, document.querySelector('.load-board'), 'https://vvschrus.pythonanywhere.com/static/data/board.kml')
+const kadastr = new GeoObjectDrawer(myMap, document.querySelector('.load-kadastr'), 'https://vvschrus.pythonanywhere.com/static/data/kadastr.kml')
 
 }
 </script>
