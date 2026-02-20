@@ -9,6 +9,6 @@ build:
   useCache: true
 run:
   persistenceMount: /data
-  containerPort: 80
-  command: python manage.py startapp communications_map
+  containerPort: 8000
+  command: python manage.py runserver
 serviceType: compute
