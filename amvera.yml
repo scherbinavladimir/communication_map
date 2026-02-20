@@ -1,0 +1,14 @@
+version: null
+meta:
+  environment: python
+  toolchain:
+    name: pip
+    version: "3.11"
+build:
+  requirementsPath: requirements.txt
+  useCache: true
+run:
+  persistenceMount: /data
+  containerPort: 80
+  command: manage.py startapp communications_map
+serviceType: compute
