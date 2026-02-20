@@ -10,5 +10,5 @@ build:
 run:
   persistenceMount: /data
   containerPort: 80
-  command: manage.py startapp communications_map
+  command: python manage.py startapp communications_map
 serviceType: compute
