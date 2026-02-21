@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>Связь</name>
+    <LookAt>
+      <longitude>37.3186878518205</longitude>
+      <latitude>44.9495183139784</latitude>
+      <range>inf</range>
+      <tilt>0.0000000000000</tilt>
+      <heading>-2.1339100000000</heading>
+    </LookAt>
+    <Folder>
+      <name>Cameras</name>
+      <open>0</open>
+    </Folder>
+    <Folder>
+      <name>Paths</name>
+      <open>0</open>
+    </Folder>
+    <Folder>
+      <name>Model</name>
+      <open>0</open>
+      <Folder>
+        <name>Полилиния [20219E4]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [20219E4]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff00fe00</color>
+              <width>12</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>clampedToGround</altitudeMode>
+              <coordinates>
+                37.3173394124684,44.9499802452735,0.000  37.3184937235787,44.9490125269419,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [20219DC]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [20219DC]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff00fe00</color>
+              <width>12</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>clampedToGround</altitudeMode>
+              <coordinates>
+                37.3171498874131,44.9498436434981,15.962  37.3175326289678,44.9494904489712,15.962
+              </coordinates>
+            </LineString>
+            <LineString>
+              <altitudeMode>clampedToGround</altitudeMode>
+              <coordinates>
+                37.3175326289668,44.9494904489702,15.962  37.3176693720259,44.9493642608793,15.962
+              </coordinates>
+            </LineString>
+            <LineString>
+              <altitudeMode>clampedToGround</altitudeMode>
+              <coordinates>
+                37.3176693720249,44.9493642608783,15.962  37.3183693273375,44.9488134928596,15.962
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

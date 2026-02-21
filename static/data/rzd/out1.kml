@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Газопровод</name>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3376497060633</longitude>
+		<latitude>44.941453599383</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<Style id="style">
+		<LineStyle>
+			<color>ffc89a7a</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ffc89a7a</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Газопровод</name>
+			<open>1</open>
+			<Placemark>
+				<name>Газопровод ГазпромГазораспределение в.д. ст.720 </name>
+				<styleUrl>#stylemap_id2</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3227266117249,44.9450731744357,0 37.3231972166265,44.9448615580795,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3231972166255,44.9448615580785,0 37.3232592629382,44.9448320337172,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3232592629372,44.9448320337162,0 37.3243514670444,44.94430836972,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3243514670434,44.944308369719,0 37.3244687432173,44.9442521047612,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3244687432163,44.9442521047602,0 37.3255827772075,44.9437333130212,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3255827772065,44.9437333130202,0 37.3267722324364,44.9431742929668,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3267722324354,44.9431742929658,0 37.3275634070014,44.9427504324524,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3275634070004,44.9427504324514,0 37.3279961318503,44.9425197088532,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3279961318493,44.9425197088522,0 37.3295771387261,44.941779407911,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3295771387251,44.94177940791,0 37.3316765889726,44.9409539000952,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3316765889716,44.9409539000942,0 37.3324103769098,44.9406825490988,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3324103769088,44.9406825490978,0 37.3331575413469,44.9403727958279,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3331575413459,44.9403727958269,0 37.3331928928841,44.940356135497,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3331928928831,44.940356135496,0 37.3343341280345,44.9398614436492,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3343341280335,44.9398614436482,0 37.3353483285206,44.9409203599456,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3353483285196,44.9409203599446,0 37.335385863936,44.9413739696873,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.335385863935,44.9413739696863,0 37.3353963052806,44.9415004423441,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

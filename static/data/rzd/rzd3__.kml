@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Канализация</name>
+	<open>1</open>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3360701599615</longitude>
+		<latitude>44.9491052104605</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<Style id="style">
+		<LineStyle>
+			<color>ff000055</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff000055</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Канализация чуг.300</name>
+			<open>1</open>
+			<Placemark>
+				<name>Канализация чуг.300</name>
+				<styleUrl>#stylemap_id0</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3126322231411,44.9566364261121,0 37.3125312044788,44.95651274935,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3125312044778,44.956512749349,0 37.3133373869446,44.9559206505733,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3133373869436,44.9559206505723,0 37.3130797013939,44.9558083482265,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3130797013929,44.9558083482255,0 37.3128806810422,44.9556896671931,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3128806810412,44.9556896671921,0 37.3132808085664,44.9553888258722,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3132808085654,44.9553888258712,0 37.3139960522774,44.9548705666082,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3139960522764,44.9548705666072,0 37.3144610874791,44.954537589476,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3144610874781,44.954537589475,0 37.314206686863,44.9542920171971,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.314206686862,44.9542920171961,0 37.313967926366,44.9540548416201,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.313967926365,44.9540548416191,0 37.313867743243,44.9538563374246,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.313867743242,44.9538563374236,0 37.3140490153227,44.9536653108658,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3140490153217,44.9536653108648,0 37.3141525133199,44.9534932520214,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3141525133189,44.9534932520204,0 37.3142403124115,44.9534629676166,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3142403124105,44.9534629676156,0 37.3145372198493,44.9531527639111,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3145372198483,44.9531527639101,0 37.3147949294808,44.9528501471879,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3147949294798,44.9528501471869,0 37.3154146622914,44.9524962402158,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3154146622904,44.9524962402148,0 37.3157318599272,44.9521874699653,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3157318599262,44.9521874699643,0 37.3156975664999,44.9521112575391,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3156975664989,44.9521112575381,0 37.3155991611519,44.9518637673739,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3155991611509,44.9518637673728,0 37.316326785229,44.9512234801436,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.316326785228,44.9512234801426,0 37.3166829431958,44.9509032257251,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3166829431948,44.9509032257241,0 37.3169726372936,44.9508925397789,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3169726372926,44.9508925397779,0 37.3170439232617,44.950873257566,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

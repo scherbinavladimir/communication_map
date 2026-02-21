@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Водопровод</name>
+	<open>1</open>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3222099897006</longitude>
+		<latitude>44.9487333293144</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<Style id="style">
+		<LineStyle>
+			<color>fffe007e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>fffe007e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<Folder>
+			<name>Текст [6E3D]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3184831724547,44.9490769786943,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E3C]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3183103179175,44.9492290580725,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E3B]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3181253907065,44.9493910234053,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E3A]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3179195110522,44.9495756366878,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E39]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3183164694528,44.9497486776906,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E38]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3183794040017,44.9497574788086,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E37]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3187103491856,44.9499470707696,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E36]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3194490019007,44.9503251160898,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E35]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3196381202968,44.9504673006609,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E34]</name>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3195504115841,44.9505487507693,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [6E32]</name>
+			<open>1</open>
+			<Placemark>
+				<name>люк</name>
+				<Style>
+					<IconStyle>
+						<Icon>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>37.3194161034271,44.9506630238348,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Водопровод чуг.200</name>
+			<open>1</open>
+			<Placemark>
+				<name>Водопровод чуг.200</name>
+				<styleUrl>#stylemap_id1</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.319418172274,44.9506490484397,0 37.3194813907931,44.9505957547422,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3194813907921,44.9505957547412,0 37.319553584955,44.9505348943416,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.319553584954,44.9505348943406,0 37.3196408365301,44.950453475224,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3196408365291,44.950453475223,0 37.3194421740532,44.9503234835617,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3194421740522,44.9503234835607,0 37.3192467428889,44.9502243338577,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3192467428879,44.9502243338567,0 37.3190278347337,44.9501146668877,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3190278347327,44.9501146668867,0 37.3187049140366,44.9499507078141,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3187049140356,44.9499507078131,0 37.3183731931979,44.9497627438307,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183731931969,44.9497627438297,0 37.3183149440982,44.9497553328595,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183149440972,44.9497553328585,0 37.3180197524117,44.9496936978672,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3180197524107,44.9496936978662,0 37.3179458581481,44.9495737515962,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3179458581471,44.9495737515952,0 37.3181511626782,44.9493884519658,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3181511626772,44.9493884519648,0 37.3183318569917,44.949227508246,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183318569907,44.949227508245,0 37.3185053221889,44.9490755889646,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<PhotoOverlay>
+				<name>ТУ Анапа Водоканал</name>
+				<description><![CDATA[<img style="max-width:500px;" src="file:///C:/Users/kisvyantsevrs/Desktop/ЕСК ЖД/ТУ Водоканал.jpg">]]></description>
+				<Camera>
+					<longitude>37.31861268200001</longitude>
+					<latitude>44.949582404</latitude>
+					<altitude>205.7099999965912</altitude>
+					<heading>12.15025036385134</heading>
+					<tilt>0</tilt>
+					<roll>0</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<Style>
+					<IconStyle>
+						<Icon>
+							<href>:/camera_mode.png</href>
+						</Icon>
+					</IconStyle>
+					<ListStyle>
+						<listItemType>check</listItemType>
+						<ItemIcon>
+							<state>open closed error fetching0 fetching1 fetching2</state>
+							<href>http://maps.google.com/mapfiles/kml/shapes/camera-lv.png</href>
+						</ItemIcon>
+						<bgColor>00ffffff</bgColor>
+						<maxSnippetLines>2</maxSnippetLines>
+					</ListStyle>
+				</Style>
+				<Icon>
+				</Icon>
+				<ViewVolume>
+					<near>71.2785</near>
+				</ViewVolume>
+				<Point>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					<coordinates>37.31861268200001,44.949582404,205.7099999965912</coordinates>
+				</Point>
+			</PhotoOverlay>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CEF]</name>
+			<Placemark>
+				<name>Окружность [6CEF]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3187112494988,44.9499507446996,0 37.3187108496586,44.9499522811891,0 37.3187097338947,44.9499536279064,0 37.3187080367849,44.9499546224176,0 37.3187059630257,44.94995514477,0 37.3187037627432,44.9499551319604,0 37.3187017013243,44.9499545855339,0 37.3187000274065,44.9499535713977,0 37.3186989428893,44.9499522118718,0 37.3186985785815,44.9499506709352,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3186985785725,44.9499506709262,0 37.318698978415,44.9499491344386,0 37.318700094181,44.9499477877234,0 37.3187017912928,44.9499467932144,0 37.3187038650538,44.949946270864,0 37.3187060653379,44.9499462836756,0 37.3187081267585,44.9499468301041,0 37.3187098006782,44.9499478442421,0 37.3187108851976,44.94994920377,0 37.3187112495078,44.9499507447086,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CE8]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Окружность [6CE8]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3194485095573,44.9503235204066,0 37.3194481097341,44.9503250568987,0 37.31944699398,44.9503264036232,0 37.3194452968717,44.9503273981453,0 37.3194432231056,44.950327920511,0 37.3194410228086,44.9503279077155,0 37.3194389613692,44.9503273613022,0 37.3194372874276,44.9503263471767,0 37.319436202886,44.9503249876578,0 37.3194358385562,44.9503234467235,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3194358385472,44.9503234467145,0 37.3194362383727,44.9503219102244,0 37.3194373541289,44.950320563502,0 37.3194390512391,44.950319568982,0 37.319441125007,44.9503190466184,0 37.3194433253057,44.9503190594159,0 37.3194453867468,44.9503196058311,0 37.3194470606904,44.9503206199584,0 37.3194481452342,44.9503219794793,0 37.3194485095663,44.9503235204156,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CE1]</name>
+			<Placemark>
+				<name>Окружность [6CE1]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.318379528639,44.9497627807345,16.431 37.3183791287913,44.9497643172229,16.431 37.3183780130234,44.949765663937,16.431 37.3183763159135,44.9497666584432,16.431 37.3183742421581,44.9497671807897,16.431 37.318372041883,44.9497671679737,16.431 37.318369980474,44.9497666215413,16.431 37.3183683065676,44.9497656074002,16.431 37.3183672220617,44.9497642478712,16.431 37.3183668577639,44.9497627069335,16.431 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3183668577549,44.9497627069245,16.431 37.3183672576049,44.9497611704381,16.431 37.3183683733749,44.9497598237262,16.431 37.3183700704868,44.949758829222,16.431 37.3183721442439,44.9497583068776,16.431 37.3183743445207,44.9497583196956,16.431 37.3183764059314,44.94975886613,16.431 37.3183780798398,44.9497598802729,16.431 37.3183791643478,44.9497612398039,16.431 37.318379528648,44.9497627807435,16.431 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CDA]</name>
+			<Placemark>
+				<name>Окружность [6CDA]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3196471720488,44.9504535120579,0 37.3196467722299,44.9504550485507,0 37.3196456564779,44.9504563952771,0 37.3196439593691,44.9504573898021,0 37.3196418856001,44.9504579121714,0 37.319639685298,44.9504578993797,0 37.319637623852,44.95045735297,0 37.3196359499031,44.9504563388474,0 37.3196348653544,44.9504549793303,0 37.3196345010185,44.9504534383967,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3196345010095,44.9504534383877,0 37.3196349008307,44.9504519018969,0 37.3196360165848,44.9504505551726,0 37.3196377136955,44.9504495606497,0 37.3196397874663,44.9504490382825,0 37.31964198777,44.9504490510762,0 37.3196440492177,44.9504495974878,0 37.3196457231686,44.9504506116123,0 37.3196468077195,44.9504519711313,0 37.3196471720578,44.9504535120669,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CD3]</name>
+			<Placemark>
+				<name>Окружность [6CD3]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3195599204825,44.9505349311804,0 37.3195595206606,44.9505364676729,0 37.319558404905,44.9505378143984,0 37.3195567077924,44.9505388089221,0 37.3195546340196,44.9505393312898,0 37.3195524337144,44.9505393184964,0 37.3195503722664,44.9505387720851,0 37.3195486983167,44.9505377579612,0 37.3195476137685,44.9505363984433,0 37.3195472494345,44.9505348575094,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3195472494254,44.9505348575004,0 37.3195476492496,44.95053332101,0 37.3195487650074,44.9505319742866,0 37.319550462122,44.950530979765,0 37.3195525358965,44.9505304573994,0 37.3195547362033,44.9505304701948,0 37.319556797653,44.950531016608,0 37.3195584716047,44.9505320307337,0 37.3195595561551,44.9505333902536,0 37.3195599204915,44.9505349311894,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CCC]</name>
+			<Placemark>
+				<name>Окружность [6CCC]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3183381923739,44.9492275451517,31.118 37.318337792529,44.9492290816401,31.118 37.3183366767706,44.949230428354,31.118 37.3183349796759,44.9492314228599,31.118 37.3183329059395,44.9492319452057,31.118 37.3183307056848,44.9492319323891,31.118 37.3183286442953,44.9492313859559,31.118 37.3183269704051,44.9492303718143,31.118 37.3183258859101,44.9492290122847,31.118 37.3183255216166,44.9492274713468,31.118 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3183255216076,44.9492274713378,31.118 37.3183259214548,44.9492259348515,31.118 37.3183270372154,44.9492245881397,31.118 37.3183287343121,44.949223593636,31.118 37.3183308080502,44.9492230712922,31.118 37.3183330083065,44.9492230841109,31.118 37.3183350696977,44.9492236305459,31.118 37.3183367435899,44.9492246446894,31.118 37.318337828087,44.9492260042209,31.118 37.3183381923829,44.9492275451607,31.118 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CC5]</name>
+			<Placemark>
+				<name>Окружность [6CC5]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3181574980778,44.9493884888817,15.809 37.318157098227,44.9493900253694,15.809 37.3181559824612,44.9493913720814,15.809 37.3181542853586,44.9493923665845,15.809 37.3181522116148,44.949392888927,15.809 37.3181500113541,44.9493928761069,15.809 37.3181479499606,44.9493923296704,15.809 37.3181462760689,44.9493913155262,15.809 37.3181451915753,44.949389955995,15.809 37.3181448272857,44.9493884150565,15.809 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3181448272767,44.9493884150475,15.809 37.3181452271299,44.9493868785619,15.809 37.3181463428977,44.949385531852,15.809 37.3181480400023,44.949384537351,15.809 37.3181501137478,44.9493840150106,15.809 37.3181523140102,44.9493840278327,15.809 37.3181543754054,44.9493845742711,15.809 37.3181560492991,44.9493855884172,15.809 37.3181571337949,44.9493869479503,15.809 37.3181574980868,44.9493884888907,15.809 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CBE]</name>
+			<Placemark>
+				<name>Окружность [6CBE]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3183212795383,44.9497553697665,16.431 37.3183208796891,44.9497569062547,16.431 37.31831976392,44.9497582529682,16.431 37.3183180668093,44.9497592474736,16.431 37.3183159930537,44.949759769819,16.431 37.3183137927789,44.9497597570019,16.431 37.3183117313707,44.9497592105684,16.431 37.3183100574656,44.9497581964265,16.431 37.3183089729612,44.9497568368969,16.431 37.318308608665,44.9497552959591,16.431 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.318308608656,44.9497552959501,16.431 37.3183090085075,44.9497537594639,16.431 37.3183101242788,44.9497524127525,16.431 37.3183118213914,44.9497514182492,16.431 37.3183138951488,44.9497508959059,16.431 37.3183160954252,44.949750908725,16.431 37.3183181568351,44.9497514551604,16.431 37.3183198307423,44.9497524693042,16.431 37.3183209152488,44.9497538288357,16.431 37.3183212795473,44.9497553697755,16.431 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CB7]</name>
+			<Placemark>
+				<name>Окружность [6CB7]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3185116575546,44.9490756258607,15.182 37.3185112577154,44.9490771623497,15.182 37.3185101419641,44.9490785090654,15.182 37.3185084448768,44.9490795035739,15.182 37.3185063711474,44.9490800259229,15.182 37.3185041708985,44.9490800131097,15.182 37.3185021095127,44.9490794666796,15.182 37.3185004356238,44.9490784525405,15.182 37.3184993511275,44.9490770930126,15.182 37.3184989868303,44.9490755520752,15.182 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3184989868213,44.9490755520662,15.182 37.3184993866628,44.9490740155791,15.182 37.3185005024163,44.9490726688656,15.182 37.3185021995055,44.9490716743592,15.182 37.3185042732366,44.9490711520123,15.182 37.3185064734872,44.9490711648275,15.182 37.3185085348747,44.9490717112595,15.182 37.3185102087656,44.9490727254004,15.182 37.318511293264,44.9490740849302,15.182 37.3185116575636,44.9490756258697,15.182 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CB0]</name>
+			<Placemark>
+				<name>Окружность [6CB0]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3179521935678,44.9495737885236,0 37.3179517937101,44.9495753250105,0 37.317950677936,44.9495766717204,0 37.3179489808243,44.9495776662204,0 37.317946907072,44.9495781885591,0 37.3179447068043,44.9495781757349,0 37.3179426454062,44.9495776292948,0 37.3179409715128,44.9495766151475,0 37.3179398870206,44.9495752556145,0 37.3179395227354,44.9495737146755,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3179395227264,44.9495737146665,0 37.3179399225864,44.9495721781816,0 37.3179410383627,44.9495708314738,0 37.3179427354763,44.949569836976,0 37.3179448092303,44.9495693146393,0 37.3179470094997,44.9495693274655,0 37.3179490708995,44.9495698739075,0 37.3179507447949,44.9495708880567,0 37.3179518292893,44.9495722475916,0 37.3179521935768,44.9495737885326,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [6CA9]</name>
+			<Placemark>
+				<name>Окружность [6CA9]:0</name>
+				<Style>
+					<LineStyle>
+						<color>fffe007e</color>
+						<width>16</width>
+					</LineStyle>
+				</Style>
+				<MultiGeometry>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3194245132285,44.9506490853187,0 37.3194241134022,44.9506506218106,0 37.3194229976412,44.9506519685347,0 37.3194213005228,44.9506529630563,0 37.3194192267447,44.9506534854215,0 37.3194170264353,44.9506534726255,0 37.3194149649845,44.9506529262117,0 37.319413291034,44.9506519120859,0 37.3194122064868,44.9506505525668,0 37.3194118421557,44.9506490116324,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<altitudeMode>relativeToGround</altitudeMode>
+						<coordinates>
+							37.3194118421467,44.9506490116234,0 37.3194122419753,44.9506474751335,0 37.3194133577384,44.9506461284115,0 37.3194150548587,44.950645133892,0 37.3194171286386,44.9506446115289,0 37.3194193289497,44.9506446243269,0 37.3194213904022,44.9506451707426,0 37.3194230643547,44.9506461848703,0 37.319424148904,44.9506475443914,0 37.3194245132375,44.9506490853277,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

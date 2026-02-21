@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Здание НГЧ.kml</name>
+	<Style id="style">
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Здание НГЧ</name>
+		<styleUrl>#stylemap_id0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				37.31864951220435,44.9493611374058,0 37.31860121025929,44.94933466431145,0 37.31866168238921,44.94928634784755,0 37.31870874592067,44.94931533975953,0 37.31864951220435,44.9493611374058,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

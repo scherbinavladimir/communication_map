@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Document>
+    <name>Чертеж2</name>
+    <LookAt>
+      <longitude>37.3148941946507</longitude>
+      <latitude>44.9558749337480</latitude>
+      <range>inf</range>
+      <tilt>0.0000000000000</tilt>
+      <heading>-2.1339100000000</heading>
+    </LookAt>
+    <Folder>
+      <name>Cameras</name>
+      <open>0</open>
+    </Folder>
+    <Folder>
+      <name>Paths</name>
+      <open>0</open>
+    </Folder>
+    <Folder>
+      <name>Model</name>
+      <open>0</open>
+      <Folder>
+        <name>Текст [3BE9D]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 260</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3128227295984,44.9566234260494,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [5DCEA]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [5DCEA]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3129319042758,44.9566789556715,0.000  37.3082582060516,44.9540263314612,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [5D7F1]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [5D7F1]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3137815769126,44.9560086213836,0.000  37.3090481031105,44.9533249787399,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [5CE00]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [5CE00]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3146298808717,44.9553393448024,0.000  37.3098421523118,44.9526194911350,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [5C40F]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [5C40F]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3155437205820,44.9547066400102,0.000  37.3106338919331,44.9519153601265,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59EC3]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59EC3]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3163288869382,44.9539988332340,0.000  37.3114219339812,44.9512153337148,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59EC4]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59EC4]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3171796755153,44.9533275298918,0.000  37.3122073148823,44.9505157390343,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59EC5]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59EC5]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3180278225723,44.9526582887079,0.000  37.3130001574726,44.9498098061303,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59EC6]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59EC6]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3188770705714,44.9519881567047,0.000  37.3137902765697,44.9491067642613,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59EC9]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59EC9]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3197254973113,44.9513186506582,0.000  37.3145820447060,44.9484018264841,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [59ECA]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [59ECA]:0</name>
+          <Style>
+            <LineStyle>
+              <color>fffe00fe</color>
+              <width>4</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3205744615133,44.9506486983919,0.000  37.3153730945648,44.9476985485284,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [33329]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 269</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3204587165812,44.9505894795233,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CAF]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 268</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3195646136655,44.9512338593053,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CB1]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 267</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3187999846794,44.9519509192205,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30DBF]</name>
+        <open>0</open>
+        <Placemark>
+          <name>  ПЗ ст. Анапа</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3194559432712,44.9514000812770,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30DC0]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 267+80.22</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3194777921621,44.9513810352460,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Полилиния [30DBE]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Полилиния [30DBE]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3195655422392,44.9514556912664,0.000  37.3194712715238,44.9514022354968,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CB7]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 264</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3163331073609,44.9540076534090,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [30CB6]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [30CB6]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3163360751499,44.9540029104403,0.000  37.3163881403379,44.9540324421661,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CB5]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 265</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3171486367857,44.9533163973047,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [30CB4]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [30CB4]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3171515916112,44.9533116502671,0.000  37.3172016372551,44.9533399478196,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CB3]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 266</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3179508844683,44.9526214912219,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [30CB2]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [30CB2]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3179540936423,44.9526165203468,0.000  37.3180032637748,44.9526443758544,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [3BE9B]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 261</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3136877328297,44.9559618319315,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [3BE9A]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [3BE9A]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3136905928390,44.9559570421684,0.000  37.3137387232636,44.9559843275090,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [3D023]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 262</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3145784507634,44.9553143366053,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [3BE99]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [3BE99]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3145820799493,44.9553121919042,0.000  37.3146322956975,44.9553407165224,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [3341E]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 262</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3145784507634,44.9553143366053,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [30CBA]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [30CBA]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3145820799493,44.9553121919042,0.000  37.3146322956975,44.9553407165224,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Текст [30CB9]</name>
+        <open>0</open>
+        <Placemark>
+          <name>ПК 263</name>
+          <Style>
+            <IconStyle>
+              <Icon>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <coordinates>
+              37.3155660017946,44.9547257199743,0.000  0.0000000000000,0.0000000000000,0.000
+            </coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Линия [30CB8]</name>
+        <open>0</open>
+        <Placemark>
+          <name>Линия [30CB8]:0</name>
+          <Style>
+            <LineStyle>
+              <color>ff000000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <MultiGeometry>
+            <LineString>
+              <altitudeMode>relativeToGround</altitudeMode>
+              <coordinates>
+                37.3155689081334,44.9547209581106,0.000  37.3156379737384,44.9547602190388,0.000
+              </coordinates>
+            </LineString>
+          </MultiGeometry>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>

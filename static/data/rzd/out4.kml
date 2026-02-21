@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Вл-10кВ</name>
+	<open>1</open>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3246101471772</longitude>
+		<latitude>44.9514188543132</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<Style id="style">
+		<LineStyle>
+			<color>fffe00fe</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>fffe00fe</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Вл-10кВ</name>
+			<open>1</open>
+			<Placemark>
+				<name>ВЛ-10кВ</name>
+				<styleUrl>#stylemap_id0</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3161000014909,44.9536702426645,0 37.3166258300299,44.953300197952,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3166258300289,44.953300197951,0 37.3168374654055,44.9531383408145,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3168374654045,44.9531383408135,0 37.3171303931397,44.952887082133,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3171303931387,44.952887082132,0 37.3183001533918,44.9518836909584,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183001533908,44.9518836909574,0 37.3183264345318,44.9518706164251,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183264345308,44.9518706164241,0 37.3191398486193,44.9511695359895,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Водопровод Анапа Водоканал Чуг.200</name>
+	<Style>
+		<LineStyle>
+			<color>fffe0000</color>
+			<width>12</width>
+		</LineStyle>
+	</Style>
+	<MultiGeometry>
+		<LineString>
+			<coordinates>
+				37.3199931515425,44.9498073641532,0 37.3191162807401,44.9505972588569,0
+			</coordinates>
+		</LineString>
+		<LineString>
+			<coordinates>
+				37.3191162807391,44.9505972588559,0 37.318788332738,44.9508885669875,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<coordinates>
+				37.318788332737,44.9508885669865,0 37.3190123361626,44.9510088454067,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<coordinates>
+				37.3190453944645,44.9510073200669,0 37.3190877208198,44.9509777527121,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<coordinates>
+				37.3190123361616,44.9510088454057,0 37.3190157137436,44.9510103769169,0 37.3190193890729,44.9510115112123,0 37.3190232702503,44.9510122199297,0 37.3190272602301,44.9510124853482,0 37.3190312592456,44.9510123008312,0 37.3190351673045,44.9510116709924,0 37.3190388866885,44.9510106115806,0 37.3190423243973,44.9510091490855,0 37.3190453944735,44.9510073200759,0 
+			</coordinates>
+		</LineString>
+	</MultiGeometry>
+</Placemark>
+</kml>

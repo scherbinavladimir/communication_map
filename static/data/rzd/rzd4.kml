@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Кабели СЦБ</name>
+	<open>1</open>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3255943299484</longitude>
+		<latitude>44.9500170104941</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff7fffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff7fffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff7fffff</color>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffffaa00</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+		<visibility>0</visibility>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+		<visibility>0</visibility>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<Folder>
+			<name>Текст [2F96E]</name>
+			<Placemark>
+				<name>Светофор Н2</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3147982057323,44.9533786939714,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F96D]</name>
+			<Placemark>
+				<name>Светофор Н1</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3145643021346,44.9537516789164,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F962]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3179967458561,44.9504281119883,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F961]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3175640395121,44.9508082617959,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F960]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3170695532633,44.9512463001882,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F95F]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3168932544673,44.9514069710899,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F95E]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3155709795108,44.952561394193,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F95D]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3135971783743,44.9545072464108,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Текст [2F95A]</name>
+			<Placemark>
+				<name>муфта</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3134758884484,44.9546221502191,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F959]</name>
+			<open>1</open>
+			<Folder>
+				<name>Кабель СЦБ ШЧ-10 гл.0.4</name>
+				<open>1</open>
+				<Placemark>
+					<name>Кабель СЦБ ШЧ-10 гл.0.4</name>
+					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<MultiGeometry>
+						<LineString>
+							<coordinates>
+								37.3136229976752,44.9545015094545,16.545 37.3136269805835,44.9545037357507,16.545 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<coordinates>
+								37.3136269805825,44.9545037357497,16.545 37.3136301159607,44.9545009076613,16.545 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<coordinates>
+								37.3136301159597,44.9545009076603,16.545 37.3136261330535,44.9544986813663,16.545 
+							</coordinates>
+						</LineString>
+						<LineString>
+							<coordinates>
+								37.3136261330525,44.9544986813653,16.545 37.3136229976762,44.9545015094555,16.545 
+							</coordinates>
+						</LineString>
+					</MultiGeometry>
+				</Placemark>
+			</Folder>
+			<Placemark>
+				<name>Кабель СЦБ ШЧ-10 гл.0.4</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3179171317115,44.9503181353411,0 37.3180315464338,44.9503832318667,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3180315464328,44.9503832318657,0 37.3176467047155,44.9507255342857,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3176467047145,44.9507255342847,0 37.317356307702,44.9509837755067,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.317356307701,44.9509837755057,0 37.3169044061659,44.9513866121518,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3169044061649,44.9513866121508,0 37.3163204067657,44.951905708616,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3163204067647,44.951905708615,0 37.3160342516314,44.9521609235142,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3160342516303,44.9521609235132,0 37.3157692647319,44.9523972562875,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3157692647309,44.9523972562865,0 37.3152812523188,44.9528370271969,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3152812523178,44.9528370271959,0 37.3151726509433,44.9529392647206,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3151726509423,44.9529392647196,0 37.315005795233,44.9531038014109,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.315005795232,44.9531038014099,0 37.3148738110061,44.953234780303,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3148738110051,44.953234780302,0 37.3149535043925,44.9532760855294,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3149535043915,44.9532760855284,0 37.3147117396692,44.9535366456496,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3147117396682,44.9535366456486,0 37.3147573893382,44.9535593788918,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3147573893372,44.9535593788908,0 37.314640380537,44.9536641267123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.314640380536,44.9536641267113,0 37.3143580272328,44.9539168910256,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3143580272318,44.9539168910246,0 37.3140441750529,44.954197849856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3140441750519,44.954197849855,0 37.3138271708595,44.9543921087459,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3138271708585,44.9543921087449,0 37.3137793864257,44.9543650241141,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3137793864247,44.9543650241131,0 37.3137590180468,44.9543831622785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3137590180458,44.9543831622775,0 37.3136249891298,44.9545026226031,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3136249891288,44.9545026226021,0 37.3134966474316,44.9546165844544,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F94E]</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Полилиния [2F94E]:0</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3179171317115,44.9503181353411,0 37.3180315464338,44.9503832318667,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3180315464328,44.9503832318657,0 37.3176467047155,44.9507255342857,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3176467047145,44.9507255342847,0 37.317356307702,44.9509837755067,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.317356307701,44.9509837755057,0 37.3169044061659,44.9513866121518,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3169044061649,44.9513866121508,0 37.3163204067657,44.951905708616,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3163204067647,44.951905708615,0 37.3160342516314,44.9521609235142,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3160342516303,44.9521609235132,0 37.3157692647319,44.9523972562875,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3157692647309,44.9523972562865,0 37.3152812523188,44.9528370271969,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3152812523178,44.9528370271959,0 37.3151726509433,44.9529392647206,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3151726509423,44.9529392647196,0 37.315005795233,44.9531038014109,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.315005795232,44.9531038014099,0 37.3148738110061,44.953234780303,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3148738110051,44.953234780302,0 37.3149535043925,44.9532760855294,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3149535043915,44.9532760855284,0 37.3147117396692,44.9535366456496,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3147117396682,44.9535366456486,0 37.3147573893382,44.9535593788918,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3147573893372,44.9535593788908,0 37.314640380537,44.9536641267123,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.314640380536,44.9536641267113,0 37.3143580272328,44.9539168910256,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3143580272318,44.9539168910246,0 37.3140441750529,44.954197849856,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3140441750519,44.954197849855,0 37.3138271708595,44.9543921087459,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3138271708585,44.9543921087449,0 37.3137793864257,44.9543650241141,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3137793864247,44.9543650241131,0 37.3137590180468,44.9543831622785,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3137590180458,44.9543831622775,0 37.3136249891298,44.9545026226031,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3136249891288,44.9545026226021,0 37.3134966474316,44.9546165844544,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Штриховка [2F965]</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Штриховка [2F965]</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3136269805825,44.9545037357497,16.545 37.3136294070902,44.9545015470578,16.545 37.3136229976772,44.9545015094565,16.545 37.3136269805825,44.9545037357497,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3136237065458,44.954500870058,16.545 37.3136301159607,44.9545009076613,16.545 37.3136261330545,44.9544986813673,16.545 37.3136237065458,44.954500870058,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3136229976752,44.9545015094545,16.545 37.3136301159607,44.9545009076613,16.545 37.3136237065478,44.95450087006,16.545 37.3136229976752,44.9545015094545,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3136229976752,44.9545015094545,16.545 37.3136294070902,44.9545015470578,16.545 37.3136301159617,44.9545009076623,16.545 37.3136229976752,44.9545015094545,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Штриховка [2F965]:0</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3136269805825,44.9545037357497,16.545 37.3136294070902,44.9545015470578,16.545 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F95C]</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Полилиния [2F95C]:0</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3134915205855,44.954618299389,16.545 37.3134955034966,44.9546205256897,16.545 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3134955034956,44.9546205256887,16.545 37.3134986388867,44.9546176976042,16.545 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3134986388857,44.9546176976032,16.545 37.3134946559766,44.9546154713046,16.545 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3134946559756,44.9546154713036,16.545 37.3134915205865,44.95461829939,16.545 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Штриховка [2F95B]</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Штриховка [2F95B]</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3134955034956,44.9546205256887,16.545 37.3134979300133,44.9546183369998,16.545 37.3134915205874,44.954618299391,16.545 37.3134955034956,44.9546205256887,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3134922294589,44.9546176599934,16.545 37.3134986388867,44.9546176976042,16.545 37.3134946559776,44.9546154713056,16.545 37.3134922294589,44.9546176599934,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3134915205855,44.954618299389,16.545 37.3134986388867,44.9546176976042,16.545 37.3134922294609,44.9546176599954,16.545 37.3134915205855,44.954618299389,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3134915205855,44.954618299389,16.545 37.3134979300133,44.9546183369998,16.545 37.3134986388877,44.9546176976052,16.545 37.3134915205855,44.954618299389,16.545 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Штриховка [2F969]</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Штриховка [2F969]</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180290768001,44.9503896239947,0 37.3180300048511,44.9503895683801,0 37.3180286178163,44.9503895602972,0 37.3180290768001,44.9503896239947,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180290768001,44.9503896239947,0 37.3180295444548,44.9503896267213,0 37.3180300048521,44.9503895683811,0 37.3180290768001,44.9503896239947,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180286178143,44.9503895602952,0 37.3180304423118,44.9503894509588,0 37.3180281831287,44.9503894377929,0 37.3180286178143,44.9503895602952,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180286178143,44.9503895602952,0 37.3180300048511,44.9503895683801,0 37.3180304423128,44.9503894509598,0 37.3180286178143,44.9503895602952,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180281831267,44.9503894377909,0 37.3180308419396,44.9503892784562,0 37.3180277875421,44.9503892606556,0 37.3180281831267,44.9503894377909,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180281831267,44.9503894377909,0 37.3180304423118,44.9503894509588,0 37.3180308419406,44.9503892784572,0 37.3180281831267,44.9503894377909,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180277875401,44.9503892606536,0 37.3180311901257,44.9503890567465,0 37.3180274445276,44.9503890349175,0 37.3180277875401,44.9503892606536,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180277875401,44.9503892606536,0 37.3180308419396,44.9503892784562,0 37.3180311901267,44.9503890567475,0 37.3180277875401,44.9503892606536,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180274445256,44.9503890349155,0 37.318031475013,44.9503887933798,0 37.3180271657663,44.9503887682658,0 37.3180274445256,44.9503890349155,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180274445256,44.9503890349155,0 37.3180311901257,44.9503890567465,0 37.3180314750139,44.9503887933808,0 37.3180274445256,44.9503890349155,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180271657643,44.9503887682638,0 37.3180316869,44.9503884973248,0 37.318026960751,44.950388469781,0 37.3180271657643,44.9503887682638,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180271657643,44.9503887682638,0 37.318031475013,44.9503887933798,0 37.318031686901,44.9503884973258,0 37.3180271657643,44.9503887682638,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.318026960749,44.950388469779,0 37.3180318185712,44.9503881786633,0 37.3180268364632,44.9503881496277,0 37.318026960749,44.950388469779,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.318026960749,44.950388469779,0 37.3180316869,44.9503884973248,0 37.3180318185722,44.9503881786643,0 37.318026960749,44.950388469779,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180268364612,44.9503881496257,0 37.3180318655427,44.9503878482468,0 37.3180267971354,44.9503878187083,0 37.3180268364612,44.9503881496257,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180268364612,44.9503881496257,0 37.3180318185712,44.9503881786633,0 37.3180318655437,44.9503878482478,0 37.3180268364612,44.9503881496257,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180267971334,44.9503878187063,0 37.318031826215,44.9503875173274,0 37.318026844107,44.9503874882918,0 37.3180267971334,44.9503878187063,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180267971334,44.9503878187063,0 37.3180318655427,44.9503878482468,0 37.318031826216,44.9503875173284,0 37.3180267971334,44.9503878187063,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.318026844105,44.9503874882898,0 37.3180317019271,44.9503871971741,0 37.3180269757782,44.9503871696303,0 37.318026844105,44.9503874882898,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.318026844105,44.9503874882898,0 37.318031826215,44.9503875173274,0 37.3180317019281,44.9503871971751,0 37.318026844105,44.9503874882898,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180269757762,44.9503871696283,0 37.3180314969118,44.9503868986894,0 37.3180271876653,44.9503868735753,0 37.3180269757762,44.9503871696283,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180269757762,44.9503871696283,0 37.3180317019271,44.9503871971741,0 37.3180314969128,44.9503868986904,0 37.3180269757762,44.9503871696283,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180271876633,44.9503868735733,0 37.3180312181505,44.9503866320377,0 37.3180274725526,44.9503866102087,0 37.3180271876633,44.9503868735733,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180271876633,44.9503868735733,0 37.3180314969118,44.9503868986894,0 37.3180312181515,44.9503866320387,0 37.3180271876633,44.9503868735733,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180274725506,44.9503866102067,0 37.318030875136,44.9503864062996,0 37.3180278207387,44.950386388499,0 37.3180274725506,44.9503866102067,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180274725506,44.9503866102067,0 37.3180312181505,44.9503866320377,0 37.318030875137,44.9503864063005,0 37.3180274725506,44.9503866102067,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180278207367,44.950386388497,0 37.3180304795494,44.9503862291623,0 37.3180282203665,44.9503862159963,0 37.3180278207367,44.950386388497,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180278207367,44.950386388497,0 37.318030875136,44.9503864062996,0 37.3180304795504,44.9503862291633,0 37.3180278207367,44.950386388497,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180282203645,44.9503862159943,0 37.3180300448618,44.950386106658,0 37.3180286578271,44.9503860985751,0 37.3180282203645,44.9503862159943,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180282203645,44.9503862159943,0 37.3180304795494,44.9503862291623,0 37.3180300448628,44.950386106659,0 37.3180282203645,44.9503862159943,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180286578251,44.9503860985731,0 37.3180295858761,44.9503860429584,0 37.3180291182234,44.9503860402339,0 37.3180286578251,44.9503860985731,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180286578251,44.9503860985731,0 37.3180300448618,44.950386106658,0 37.3180295858771,44.9503860429594,0 37.3180286578251,44.9503860985731,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F968]</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Полилиния [2F968]:0</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3180203355266,44.9503927688334,0 37.318024285203,44.9503950245374,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.318024285202,44.9503950245364,0 37.3180274617674,44.9503922198424,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3180274617664,44.9503922198414,0 37.3180235120921,44.9503899641396,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3180235120911,44.9503899641386,0 37.3180203355276,44.9503927688344,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Штриховка [2F967]</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Штриховка [2F967]</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.318024285202,44.9503950245364,0 37.3180267973313,44.9503928064953,0 37.3180203355286,44.9503927688354,0 37.318024285202,44.9503950245364,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180209999627,44.9503921821806,0 37.3180274617674,44.9503922198424,0 37.3180235120931,44.9503899641406,0 37.3180209999627,44.9503921821806,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180203355266,44.9503927688334,0 37.3180274617674,44.9503922198424,0 37.3180209999647,44.9503921821826,0 37.3180203355266,44.9503927688334,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3180203355266,44.9503927688334,0 37.3180267973313,44.9503928064953,0 37.3180274617684,44.9503922198434,0 37.3180203355266,44.9503927688334,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Окружность [2F96C]</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Окружность [2F96C]:0</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3175867437586,44.9507841791733,0 37.3175865838087,44.950784793768,0 37.3175861374868,44.9507853324509,0 37.3175854586259,44.9507857302492,0 37.3175846291068,44.9507859391825,0 37.3175837489819,44.9507859340505,0 37.3175829244074,44.9507857154724,0 37.3175822548393,44.950785309812,0 37.3175818210374,44.9507847659981,0 37.3175816753249,44.9507841496228,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3175816753159,44.9507841496138,0 37.3175818352678,44.9507835350211,0 37.3175822815918,44.9507829963402,0 37.3175829604546,44.9507825985439,0 37.3175837899757,44.9507823896127,0 37.3175846701025,44.9507823947466,0 37.3175854946789,44.9507826133267,0 37.3175861642491,44.9507830189891,0 37.317586598053,44.950783562805,0 37.3175867437676,44.9507841791823,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Штриховка [2F96B]</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>Штриховка [2F96B]</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317583954984,44.950785954911,0 37.3175848830418,44.9507858993,0 37.3175834959976,44.9507858912117,0 37.317583954984,44.950785954911,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317583954984,44.950785954911,0 37.3175844226419,44.9507859576394,0 37.3175848830428,44.950785899301,0 37.317583954984,44.950785954911,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175834959956,44.9507858912097,0 37.3175853205064,44.9507857818805,0 37.317583061308,44.9507857687057,0 37.3175834959956,44.9507858912097,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175834959956,44.9507858912097,0 37.3175848830418,44.9507858993,0 37.3175853205074,44.9507857818815,0 37.3175834959956,44.9507858912097,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317583061306,44.9507857687037,0 37.3175857201382,44.9507856093794,0 37.31758266572,44.9507855915668,0 37.317583061306,44.9507857687037,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317583061306,44.9507857687037,0 37.3175853205064,44.9507857818805,0 37.3175857201392,44.9507856093804,0 37.317583061306,44.9507857687037,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317582665718,44.9507855915648,0 37.3175860683284,44.9507853876711,0 37.317582322705,44.9507853658274,0 37.317582665718,44.9507855915648,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317582665718,44.9507855915648,0 37.3175857201382,44.9507856093794,0 37.3175860683294,44.9507853876721,0 37.317582665718,44.9507855915648,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317582322703,44.9507853658254,0 37.3175863532198,44.9507851243056,0 37.3175820439438,44.9507850991746,0 37.317582322703,44.9507853658254,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.317582322703,44.9507853658254,0 37.3175860683284,44.9507853876711,0 37.3175863532208,44.9507851243066,0 37.317582322703,44.9507853658254,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175820439418,44.9507850991726,0 37.3175865651106,44.9507848282515,0 37.3175818389294,44.950784800689,0 37.3175820439418,44.9507850991726,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175820439418,44.9507850991726,0 37.3175863532198,44.9507851243056,0 37.3175865651116,44.9507848282525,0 37.3175820439418,44.9507850991726,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175818389274,44.9507848006871,0 37.3175866967852,44.9507845095905,0 37.3175817146433,44.9507844805353,0 37.3175818389274,44.9507848006871,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175818389274,44.9507848006871,0 37.3175865651106,44.9507848282515,0 37.3175866967862,44.9507845095915,0 37.3175818389274,44.9507848006871,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175817146413,44.9507844805333,0 37.3175867437596,44.9507841791743,0 37.3175816753179,44.9507841496158,0 37.3175817146413,44.9507844805333,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175817146413,44.9507844805333,0 37.3175866967852,44.9507845095905,0 37.3175867437606,44.9507841791753,0 37.3175817146413,44.9507844805333,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175816753159,44.9507841496138,0 37.3175867044341,44.9507838482548,0 37.3175817222923,44.9507838191996,0 37.3175816753159,44.9507841496138,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175816753159,44.9507841496138,0 37.3175867437596,44.9507841791743,0 37.3175867044351,44.9507838482558,0 37.3175816753159,44.9507841496138,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175817222903,44.9507838191976,0 37.317586580148,44.950783528101,0 37.3175818539669,44.9507835005386,0 37.3175817222903,44.9507838191976,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175817222903,44.9507838191976,0 37.3175867044341,44.9507838482548,0 37.317586580149,44.950783528102,0 37.3175817222903,44.9507838191976,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175818539649,44.9507835005366,0 37.3175863751335,44.9507832296155,0 37.3175820658578,44.9507832044845,0 37.3175818539649,44.9507835005366,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175818539649,44.9507835005366,0 37.317586580148,44.950783528101,0 37.3175863751345,44.9507832296165,0 37.3175818539649,44.9507835005366,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175820658558,44.9507832044825,0 37.3175860963724,44.9507829629627,0 37.3175823507491,44.950782941119,0 37.3175820658558,44.9507832044825,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175820658558,44.9507832044825,0 37.3175863751335,44.9507832296155,0 37.3175860963734,44.9507829629637,0 37.3175820658558,44.9507832044825,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175823507471,44.950782941117,0 37.3175857533573,44.9507827372233,0 37.3175826989393,44.9507827194107,0 37.3175823507471,44.950782941117,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175823507471,44.950782941117,0 37.3175860963724,44.9507829629627,0 37.3175857533583,44.9507827372243,0 37.3175823507471,44.950782941117,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175826989373,44.9507827194087,0 37.3175853577694,44.9507825600844,0 37.3175830985711,44.9507825469096,0 37.3175826989373,44.9507827194087,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175826989373,44.9507827194087,0 37.3175857533573,44.9507827372233,0 37.3175853577704,44.9507825600854,0 37.3175826989373,44.9507827194087,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175830985691,44.9507825469076,0 37.3175849230798,44.9507824375785,0 37.3175835360357,44.9507824294901,0 37.3175830985691,44.9507825469076,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175830985691,44.9507825469076,0 37.3175853577694,44.9507825600844,0 37.3175849230808,44.9507824375794,0 37.3175830985691,44.9507825469076,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175835360337,44.9507824294881,0 37.3175844640914,44.9507823738771,0 37.3175839964356,44.9507823711507,0 37.3175835360337,44.9507824294881,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									37.3175835360337,44.9507824294881,0 37.3175849230798,44.9507824375785,0 37.3175844640924,44.9507823738781,0 37.3175835360337,44.9507824294881,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

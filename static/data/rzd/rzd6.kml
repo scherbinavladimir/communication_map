@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Кабели связи</name>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3374464680105</longitude>
+		<latitude>44.9471704047787</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ffff5555</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff5555</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ffff5555</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff5555</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<open>1</open>
+		<Folder>
+			<name>Кабель связи РСЦ-2 гл.0.7</name>
+			<open>1</open>
+			<Placemark>
+				<name>Кабель связи РСЦ-2 гл.0.7</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.31790999965,44.9503245886612,0 37.3183817740022,44.9505915744929,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183817740012,44.9505915744919,0 37.3183847180981,44.9505927384405,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183847180971,44.9505927384395,0 37.3183870323548,44.9505918875478,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183870323538,44.9505918875468,0 37.3196037556788,44.9495114566228,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Кабель связи РСЦ-2 гл.0.7</name>
+			<open>1</open>
+			<Placemark>
+				<name>Кабель связи РСЦ-2 гл.0.7</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3192466383491,44.9493110290541,0 37.3190910790736,44.9494481168055,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3190910790726,44.9494481168045,0 37.3189828996445,44.9495446314478,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3189828996435,44.9495446314468,0 37.3188532451484,44.9496592226995,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3188532451474,44.9496592226985,0 37.318700132204,44.9497950821574,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.318700132203,44.9497950821564,0 37.3185654854032,44.9499143615994,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3185654854022,44.9499143615984,0 37.3184544983404,44.9500133275868,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3184544983394,44.9500133275858,0 37.3183966056468,44.9500649497083,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3183966056458,44.9500649497073,0 37.3181827098648,44.950255676578,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3181827098638,44.950255676577,0 37.3180297568621,44.9503897404004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Кабель связи РСЦ-2 гл.0.7</name>
+			<open>1</open>
+			<Placemark>
+				<name>Кабель связи РСЦ-2 гл.0.7</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3198642986737,44.9496613042793,0 37.3197257164599,44.9497821878009,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3197257164589,44.9497821877999,0 37.3195313940592,44.9499542014903,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3195313940582,44.9499542014892,0 37.3192781769395,44.9501795680207,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3192781769385,44.9501795680197,0 37.3190719829005,44.9503635515628,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3190719828995,44.9503635515618,0 37.3190548783267,44.9503788136217,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3190548783257,44.9503788136207,0 37.3188775202908,44.9505373630694,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3188775202898,44.9505373630684,0 37.3186947855626,44.9507010217564,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3186947855616,44.9507010217554,0 37.318396905937,44.9509693425675,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.318396905936,44.9509693425665,0 37.3181617322677,44.9511802430739,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3181617322667,44.9511802430729,0 37.3178909868876,44.9514182161935,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3178909868866,44.9514182161925,0 37.3176365651979,44.9516424279125,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3176365651969,44.9516424279115,0 37.3173294486329,44.9519172443164,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3173294486319,44.9519172443154,0 37.31702215964,44.952192196985,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.317022159639,44.952192196984,0 37.3168173525377,44.9523754549237,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3168173525367,44.9523754549227,0 37.3164696572785,44.9526849609639,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3164696572775,44.9526849609629,0 37.31613730799,44.9529801393326,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.316137307989,44.9529801393316,0 37.3158207802701,44.9532612598538,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3158207802691,44.9532612598528,0 37.3155975511087,44.9534582361939,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3155975511077,44.9534582361929,0 37.3152840985976,44.9537365289254,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3152840985966,44.9537365289244,0 37.3151299853444,44.9538727398322,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

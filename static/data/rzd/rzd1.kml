@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>АнапаВодоканал</name>
+	<open>1</open>
+	<description>кс</description>
+	<LookAt>
+		<longitude>37.3563961797072</longitude>
+		<latitude>44.9354295240221</latitude>
+		<altitude>0</altitude>
+		<heading>-2.13391</heading>
+		<tilt>0</tilt>
+		<range>637100000</range>
+	</LookAt>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ffff5555</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff5555</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff5555</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ffff5555</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffff5555</color>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff5555</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Cameras</name>
+	</Folder>
+	<Folder>
+		<name>Paths</name>
+	</Folder>
+	<Folder>
+		<name>Model</name>
+		<Folder>
+			<name>Камера</name>
+			<open>1</open>
+			<Placemark>
+				<name>камера</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<coordinates>37.3362261356131,44.9398498587255,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F9AD]</name>
+			<open>1</open>
+			<Placemark>
+				<name>АнапаВодоканал пнд.225</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3359651523987,44.9395825510065,12.698 37.3359887530479,44.9395710457625,12.698 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3359887530469,44.9395710457615,12.698 37.3360076441685,44.9395905935994,12.698 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3360076441675,44.9395905935984,12.698 37.3359840435159,44.9396020988482,12.698 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3359840435149,44.9396020988472,12.698 37.3359651523997,44.9395825510075,12.698 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F9AC]</name>
+			<open>1</open>
+			<Placemark>
+				<name>Полилиния [2F9AC]:0</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3362094433512,44.9398521968359,14.032 37.3362306355621,44.9398418656819,14.032 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3362306355611,44.9398418656809,14.032 37.3362144105262,44.939825076784,14.032 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3362144105252,44.939825076783,14.032 37.3361932183196,44.9398354079361,14.032 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3361932183186,44.9398354079351,14.032 37.3362094433522,44.9398521968369,14.032 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F9AB]</name>
+			<open>1</open>
+			<Placemark>
+				<name>АнапаВодоканал пнд.225</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3374920803815,44.938427758651,0 37.3368755725963,44.9388812698319,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3368755725953,44.9388812698309,0 37.3364754874246,44.9391956771063,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3364754874236,44.9391956771053,0 37.3359741028628,44.9395706680821,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3359741028618,44.9395706680811,0 37.3359832778168,44.939580784676,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F9AA]</name>
+			<open>1</open>
+			<Placemark>
+				<name>АнапаВодоканал пнд.225</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3359890353264,44.9395869124117,12.78 37.3362138182275,44.9398343704165,12.78 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Полилиния [2F9A9]</name>
+			<open>1</open>
+			<Placemark>
+				<name>АнапаВодоканал пнд.225</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							37.3362184989496,44.9398375785896,0 37.3362259880744,44.9398459786077,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3362259880734,44.9398459786067,0 37.3354667307035,44.9401933831485,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3354667307025,44.9401933831475,0 37.3344249562123,44.9406671250233,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3344249562113,44.9406671250223,0 37.3337870180479,44.9410880328611,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3337870180469,44.9410880328601,0 37.3337808892143,44.9410922272399,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3337808892133,44.9410922272389,0 37.3319576372072,44.9424866156886,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3319576372062,44.9424866156876,0 37.3317551088449,44.9426251151417,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3317551088439,44.9426251151407,0 37.3316348649199,44.9427821888236,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3316348649189,44.9427821888226,0 37.3315040810317,44.943035557873,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3315040810307,44.943035557872,0 37.3312319221018,44.9432171697039,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3312319221008,44.9432171697029,0 37.3309689280244,44.9433930813636,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3309689280234,44.9433930813626,0 37.3307216762981,44.9435700220548,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3307216762971,44.9435700220538,0 37.3292381431819,44.9446330906817,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3292381431809,44.9446330906807,0 37.3291380861535,44.9447002902595,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3291380861525,44.9447002902585,0 37.328151812884,44.9453502019874,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.328151812883,44.9453502019864,0 37.3280100508719,44.9454436151436,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3280100508709,44.9454436151426,0 37.3277201545755,44.9456633394826,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3277201545745,44.9456633394816,0 37.3257312533836,44.9471919992943,0 
+						</coordinates>
+					</LineString>
+					<LineString>
+						<coordinates>
+							37.3257312533826,44.9471919992933,0 37.3255120562903,44.9473607981199,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
